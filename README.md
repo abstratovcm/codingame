@@ -12,3 +12,4 @@ This repository contains a set of solutions to the puzzles that I managed to sol
 |Title              | Solutions |
 |:-----------------:|:----------:|
 |Rubik®|[Kotlin](./puzzles/kotlin/rubik.kt)|
+|ANEO Sponsored Puzzle|[Kotlin](./puzzles/kotlin/aneo-sponsored-puzzle.kt)|
