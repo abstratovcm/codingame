@@ -7,3 +7,5 @@
 03/22/2021: [Rubik®](./rubik.kt)
 
 03/29/2021: [ANEO Sponsored Puzzle](./aneo-sponsored-puzzle.kt)
+
+03/29/2021: [Rectangle Partition](./rectangle-partition.kt)
